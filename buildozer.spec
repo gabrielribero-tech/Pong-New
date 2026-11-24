@@ -5,7 +5,7 @@ package.domain = org.gabriel
 source.dir = .
 source.include_exts = py,png,jpg,jpeg,kv,atlas
 version = 1.0
-requirements = python3==3.11.6,pygame
+requirements = python3,pygame
 orientation = portrait
 fullscreen = 1
 android.permissions = INTERNET
